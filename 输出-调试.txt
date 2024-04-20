@@ -1,0 +1,15 @@
+﻿“test.exe”(Win32): 已加载“E:\VisualPlace\test\Debug\test.exe”。已加载符号。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“test.exe”(Win32): 已卸载“C:\Windows\SysWOW64\vcruntime140d.dll”
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“test.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+线程 0x5fa8 已退出，返回值为 0 (0x0)。
+线程 0x521c 已退出，返回值为 0 (0x0)。
+线程 0x4584 已退出，返回值为 0 (0x0)。
+程序“[17000] test.exe”已退出，返回值为 0 (0x0)。
